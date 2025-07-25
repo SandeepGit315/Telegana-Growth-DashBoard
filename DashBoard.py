@@ -8,6 +8,11 @@ df_ipass = pd.read_csv("ipass_com.csv")
 
 st.set_page_config(page_title="Telangana Growth Dashboard", layout="wide")
 
+st.markdown(
+    "<h1 style='text-align: center; color: white;'>Telangana Growth & Investment Dashboard</h1>",
+    unsafe_allow_html=True
+)
+
 
 tab1, tab2, tab3, tab4 = st.tabs(["Introduction","🏢 Stamps Department", "🚗 Transport Department", "🏭 TS-iPASS Investments"])
 with tab1:
