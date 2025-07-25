@@ -6,33 +6,32 @@ df_stamps = pd.read_csv("stamps_com.csv")
 df_transport = pd.read_csv("transport_com.csv")
 df_ipass = pd.read_csv("ipass_com.csv")
 
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="Telangana Growth Dashboard", layout="wide")
 
-st.title("Telangana Growth & Investment DashBoard")
 st.markdown("""
     <style>
-        /* Reduce padding at the top slightly without hiding tabs */
-        div.block-container {
-            padding-top: 1.2rem;
-            padding-bottom: 1rem;
-        }
+    .block-container {
+        padding-top: 1.5rem;
+    }
 
-        /* Resize header fonts */
-        h1 {
-            font-size: 38px !important;
-        }
-        h2 {
-            font-size: 26px !important;
-        }
-        h3 {
-            font-size: 22px !important;
-        }
-        /* Optional: resize selectbox labels */
-        label {
-            font-size: 16px !important;
-        }
+    h1, h2, h3, h4 {
+        margin-top: 1.5rem !important;
+        margin-bottom: 1rem !important;
+        overflow-wrap: break-word;
+        word-break: break-word;
+    }
+
+    html, body, .main {
+        overflow-x: hidden !important;
+        overflow-y: auto !important;
+    }
+
+    .stTabs {
+        margin-top: 0 !important;
+    }
     </style>
 """, unsafe_allow_html=True)
+
 
 tab1, tab2, tab3, tab4 = st.tabs(["Introduction","🏢 Stamps Department", "🚗 Transport Department", "🏭 TS-iPASS Investments"])
 with tab1:
