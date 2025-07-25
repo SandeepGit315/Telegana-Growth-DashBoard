@@ -8,30 +8,6 @@ df_ipass = pd.read_csv("ipass_com.csv")
 
 st.set_page_config(page_title="Telangana Growth Dashboard", layout="wide")
 
-st.markdown("""
-    <style>
-    .block-container {
-        padding-top: 1.5rem;
-    }
-
-    h1, h2, h3, h4 {
-        margin-top: 1.5rem !important;
-        margin-bottom: 1rem !important;
-        overflow-wrap: break-word;
-        word-break: break-word;
-    }
-
-    html, body, .main {
-        overflow-x: hidden !important;
-        overflow-y: auto !important;
-    }
-
-    .stTabs {
-        margin-top: 0 !important;
-    }
-    </style>
-""", unsafe_allow_html=True)
-
 
 tab1, tab2, tab3, tab4 = st.tabs(["Introduction","🏢 Stamps Department", "🚗 Transport Department", "🏭 TS-iPASS Investments"])
 with tab1:
