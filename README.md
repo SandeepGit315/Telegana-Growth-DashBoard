@@ -35,3 +35,10 @@ This interactive dashboard presents insightful visualizations and key trends fro
  ┣ 📜 README.md      
  ┣ 📜 requirements.txt
 
+<img width="1802" height="638" alt="DashBoard-1" src="https://github.com/user-attachments/assets/8fbe0ee4-472c-47af-8046-515dc27b8aae" />
+
+<img width="1807" height="726" alt="DashBoard-2" src="https://github.com/user-attachments/assets/38c69b8b-a479-4650-b9e0-b9d2af5f6bf1" />
+
+<img width="1805" height="821" alt="DashBoard-3" src="https://github.com/user-attachments/assets/8ef1dd26-9a3a-4acb-aa17-0cbc96c2e1fc" />
+
+<img width="1888" height="872" alt="DashBoard-4" src="https://github.com/user-attachments/assets/d12d82ca-8656-4f23-a7cf-f118aa3a4bb7" />
