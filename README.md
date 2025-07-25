@@ -1,6 +1,6 @@
-# 🚗 Telangana Transport Vehicle Analysis Dashboard
+# 🚗 Telangana Growth and Investment Analysis Dashboard
 
-This interactive dashboard presents insightful visualizations and key trends from Telangana's transport vehicle data for the years **2019 to 2022**. The project leverages **Streamlit** for web UI and **Plotly** for advanced plotting to deliver a clean, responsive user experience.
+This interactive dashboard presents insightful visualizations and key trends from Telangana's stamps,transport & investment data for the years **2019 to 2022**. The project leverages **Streamlit** for web UI and **Plotly** for advanced plotting to deliver a clean, responsive user experience.
 
 ## 📊 Features
 
