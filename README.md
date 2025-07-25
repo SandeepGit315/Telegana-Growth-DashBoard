@@ -34,3 +34,12 @@ This interactive dashboard presents insightful visualizations and key trends fro
  ┣ 📜 ts_growth_dashboard.ipynb
  ┣ 📜 README.md      
  ┣ 📜 requirements.txt
+
+
+![Dashboard Screenshot](Results/DashBoard-1.png)
+
+![Dashboard Screenshot](Results/DashBoard-2.png)
+
+![Dashboard Screenshot](Results/DashBoard-3.png)
+
+![Dashboard Screenshot](Results/DashBoard-4.png)
