@@ -29,8 +29,9 @@ This interactive dashboard presents insightful visualizations and key trends fro
 ## 📁 Folder Structure
 
 ```bash
-📦 telangana-transport-dashboard 
- ┣ 📜 app.py
- ┣ 📜 README.md
- ┗ 📄 requirements.txt
+📦 telangana-transport-dashboard/
+ ┣ 📜 DashBoard.py
+ ┣ 📜 ts_growth_dashboard.ipynb
+ ┣ 📜 README.md      
+ ┣ 📜 requirements.txt
 
