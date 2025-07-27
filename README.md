@@ -29,7 +29,10 @@ This interactive dashboard presents insightful visualizations and key trends fro
 ## Results
 **Introduction** page for the summary of the dashboard and which explains the objectives and purpose of the dashboard and data preview of the dataset of 3 departments.
 
+
 <img width="1802" height="638" alt="DashBoard-1" src="https://github.com/user-attachments/assets/b790acb2-1aa6-4714-aa47-3f304be49d8e" />
+
+
 
 **Stamps Department Analysis** - This dasboard explains the effectiveness of the implemenataion of the estamps registration instead of document registration.
 
@@ -41,7 +44,10 @@ Dropdown for the year shows the following :
 
 --> Distrcit wise % growth. 
 
+
 <img width="1807" height="726" alt="DashBoard-2" src="https://github.com/user-attachments/assets/56a8caec-1950-46b3-8072-870a1ed99c11" />
+
+
 
 **Transport Department Analysis** - 
 
@@ -53,7 +59,10 @@ This dasboard explains the following :
 
 --> Top and Bottom 5 in terms of vehicles sales growth.
 
+
 <img width="1805" height="821" alt="DashBoard-3" src="https://github.com/user-attachments/assets/e1d25930-dabc-4c45-8f19-750d9c7a5b52" />
+
+
 
 **IPass Investment Analysis** -
 
@@ -67,7 +76,9 @@ This dasboard explains the following:
 
 --> Barplots showing the total investments by sectors and districts on FY2019-22.
 
+
 <img width="1888" height="872" alt="DashBoard-4" src="https://github.com/user-attachments/assets/203b9082-8c3a-4c55-b890-22150407b3da" />
+
 
 
 
